@@ -1,0 +1,5 @@
+Tecnologias que serão utilizadas no desenvolvimento do aplicativo
+- Html
+- Css
+- Backend
+- JavaScript
